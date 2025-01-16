@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aakash Yadav</h1>
-<h3 align="center">A passionate frontend web developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 
-- 🌱 I’m currently learning **NextJS, Node and SQL.**
+- 🌱 I’m currently learning **AI...**
 
 - 👨‍💻 All of my projects are available at [https://aakashyadav-portfolio.netlify.app/](https://aakashyadav-portfolio.netlify.app/)
 
-- 💬 Ask me about **javascript , react ,redux**
+- 💬 Ask me about **javascript , react ,redux,NextJS, Node and SQL**
 
 - 📫 How to reach me **ay614838@gmail.com**
 
