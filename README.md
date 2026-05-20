@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0F2027,50:203A43,100:2C5364&text=Aakash%20Yadav&fontColor=ffffff&fontSize=46&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full-Stack%20Engineer&descAlignY=62&descAlign=50" alt="Aakash header banner" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2600&pause=1100&center=true&vCenter=true&width=900&lines=NestJS+%7C+TypeScript+%7C+Redis;Scalable+APIs+and+clean+architecture;AI+features+with+RAG+and+tool-calling;Performance%2C+reliability%2C+and+developer+experience" alt="Typing animation" />
+  </a>
+</p>
+
 # Aakash Yadav
 
 Backend-focused full-stack developer building production-grade systems with NestJS, TypeScript, Redis, and modern AI workflows.
@@ -46,6 +56,16 @@ I care about clean architecture, performance, reliability, and developer experie
 - Designing scalable NestJS APIs and service boundaries
 - Applying Redis for caching, background processing, and throughput gains
 - Building robust AI features with measurable quality and safety
+
+## Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AAKASH-YADAV-CODER&theme=tokyo-night&hide_border=true&area=true" alt="Aakash activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
 
 ## Connect
 
