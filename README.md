@@ -8,6 +8,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AAKASH-YADAV-CODER&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/AAKASH-YADAV-CODER?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
+</p>
+
 # Aakash Yadav
 
 Backend-focused full-stack developer building production-grade systems with NestJS, TypeScript, Redis, and modern AI workflows.
@@ -64,11 +69,25 @@ I care about clean architecture, performance, reliability, and developer experie
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+  <img src="https://streak-stats.demolab.com?user=AAKASH-YADAV-CODER&theme=tokyonight&hide_border=true" alt="Aakash GitHub streak" />
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake-dark.gif" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake.gif" />
+    <img src="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake.gif" alt="Contribution snake animation" />
+  </picture>
+</p>
+
+> If the snake is not visible yet, run the `Generate Contribution Snake` GitHub Action once. The first run creates the `output` branch and publishes the animation files.
 
 ## Connect
 
 - Portfolio: [portfolio-aakash-yadav.vercel.app](https://portfolio-aakash-yadav.vercel.app/)
 - LinkedIn: [linkedin.com/in/aakash-yadav0](https://linkedin.com/in/aakash-yadav0)
 - Email: [ay614838@gmail.com](mailto:ay614838@gmail.com)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="Footer wave" />
+</p>
