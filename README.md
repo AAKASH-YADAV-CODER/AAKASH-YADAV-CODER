@@ -19,6 +19,14 @@ Backend-focused full-stack developer building production-grade systems with Nest
 
 I care about clean architecture, performance, reliability, and developer experience. I enjoy turning product ideas into maintainable, scalable software.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="460" alt="Coding animation" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=760&lines=Code.+Optimize.+Ship.;Designing+systems+that+scale+reliably.;Building+AI+features+that+work+in+production." alt="Engineering quote animation" />
+</p>
+
 ## What I Build
 
 - Modular backend services with NestJS and TypeScript
@@ -79,8 +87,6 @@ I care about clean architecture, performance, reliability, and developer experie
     <img src="https://raw.githubusercontent.com/AAKASH-YADAV-CODER/AAKASH-YADAV-CODER/output/github-contribution-grid-snake.gif" alt="Contribution snake animation" />
   </picture>
 </p>
-
-> If the snake is not visible yet, run the `Generate Contribution Snake` GitHub Action once. The first run creates the `output` branch and publishes the animation files.
 
 ## Connect
 
