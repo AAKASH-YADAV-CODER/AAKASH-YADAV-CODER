@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Aakash%20Yadav&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full-Stack%20Engineer&descAlignY=64&descAlign=50" alt="Aakash header banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0D1117,50:312E81,100:06B6D4&text=Aakash%20Yadav&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=40&desc=Backend-Focused%20Full-Stack%20Engineer&descAlignY=64&descAlign=50" alt="Aakash header banner" />
 </p>
 
 <p align="center">
@@ -11,47 +11,33 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AAKASH-YADAV-CODER&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AAKASH-YADAV-CODER?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/AAKASH-YADAV-CODER?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=760&lines=Code.+Optimize.+Ship.;Designing+systems+that+scale+reliably.;Building+AI+features+that+work+in+production." alt="Engineering quote animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&center=true&vCenter=true&width=700&lines=Code.+Optimize.+Ship.;Designing+systems+that+scale+reliably.;Building+AI+features+that+work+in+production." alt="Engineering quote animation" />
 </p>
 
 <h2 align="center">About Me</h2>
 
 <p align="center">
-  Backend-focused full-stack developer building production-grade systems with NestJS, TypeScript, Redis, and modern AI workflows.
+  Backend-focused full-stack engineer building resilient systems with NestJS, TypeScript, Redis, and modern AI workflows.
   <br />
-  I focus on clean architecture, high performance, and reliable software delivery.
+  I focus on clean architecture, low-latency APIs, and reliable production delivery.
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
-</p>
+### What I Build
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>What I Build</h3>
-      <ul>
-        <li>Modular backend services with NestJS and TypeScript</li>
-        <li>High-performance APIs with Redis caching and optimized data access</li>
-        <li>Async workflows with queues and event-driven patterns</li>
-        <li>AI-powered product features with retrieval and orchestration</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Current Focus</h3>
-      <ul>
-        <li>Scalable service boundaries and maintainable architecture</li>
-        <li>Redis-based caching and background processing throughput</li>
-        <li>RAG quality, tool-calling reliability, and guardrails</li>
-        <li>Production-first engineering with testability and observability</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- Production-ready APIs with strong module boundaries, auth, and validation
+- Low-latency services using Redis caching, smart invalidation, and async processing
+- Event-driven backend workflows for scalable and fault-tolerant operations
+- AI-powered product features using RAG, tool-calling, and guardrail-first design
+
+### Current Focus
+
+- Improving API throughput and p95 latency across NestJS services
+- Hardening reliability with retries, idempotent flows, and better observability
+- Increasing AI answer quality with relevance checks and cost-aware design
+- Shipping in small, reviewable increments with measurable production outcomes
 
 <h2 align="center">Tech Stack</h2>
 
@@ -60,17 +46,16 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NestJS-Backend%20Architecture-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS badge" />
-  <img src="https://img.shields.io/badge/Redis-Caching%20%26%20Queues-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis badge" />
-  <img src="https://img.shields.io/badge/TypeScript-Scalable%20Code-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
-  <img src="https://img.shields.io/badge/AI-RAG%20%26%20Tool%20Calling-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI badge" />
+  <img src="https://img.shields.io/badge/NestJS-Backend%20Architecture-7C3AED?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS badge" />
+  <img src="https://img.shields.io/badge/Redis-Caching%20%26%20Queues-6366F1?style=for-the-badge&logo=redis&logoColor=white" alt="Redis badge" />
+  <img src="https://img.shields.io/badge/TypeScript-Scalable%20Code-3B82F6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge" />
+  <img src="https://img.shields.io/badge/AI-RAG%20%26%20Tool%20Calling-06B6D4?style=for-the-badge&logo=openai&logoColor=white" alt="AI badge" />
 </p>
 
 <h2 align="center">GitHub Insights</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AAKASH-YADAV-CODER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAKASH-YADAV-CODER&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AAKASH-YADAV-CODER&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&border_radius=12" height="170" alt="GitHub stats" />
 </p>
 
 <p align="center">
@@ -78,7 +63,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AAKASH-YADAV-CODER&theme=tokyonight&hide_border=true" alt="Aakash GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AAKASH-YADAV-CODER&theme=tokyonight&hide_border=true&border_radius=12" alt="Aakash GitHub streak" />
 </p>
 
 <p align="center">
@@ -98,5 +83,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0F2027,50:203A43,100:2C5364" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:0D1117,50:312E81,100:06B6D4" alt="Footer wave" />
 </p>
